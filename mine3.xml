@@ -1,0 +1,123 @@
+<environment>
+	<material id="1" resistivity="1" relativePermittivity="0.1" relativePermeability="1"/>
+
+	<!-- Column 1 -->
+	<object position = "min 0 335 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 24 335 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 48 335 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 72 335 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 96 335 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 120 335 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 144 335 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 168 335 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 192 335 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 216 335 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+
+	<!-- Column 2 -->
+	<object position = "min 0 359 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 24 359 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 48 359 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 72 359 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 96 359 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 120 359 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 144 359 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 168 359 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 192 359 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 216 359 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+
+	<!-- Column 3 -->
+	<object position = "min 0 383 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 24 383 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 48 383 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 72 383 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 96 383 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 120 383 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 144 383 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 168 383 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 192 383 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 216 383 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+
+	<!-- Column 4 -->
+	<object position = "min 0 407 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 24 407 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 48 407 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 72 407 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 96 407 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 120 407 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 144 407 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 168 407 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 192 407 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 216 407 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+
+	<!-- Column 5 -->
+	<object position = "min 0 431 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 24 431 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 48 431 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 72 431 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 96 431 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 120 431 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 144 431 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 168 431 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 192 431 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 216 431 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+
+	<!-- Column 6 -->
+	<object position = "min 0 455 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 24 455 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 48 455 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 72 455 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 96 455 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 120 455 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 144 455 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 168 455 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 192 455 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 216 455 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+
+	<!-- Column 7 -->
+	<object position = "min 0 479 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 24 479 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 48 479 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 72 479 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 96 479 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 120 479 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 144 479 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 168 479 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 192 479 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 216 479 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+
+	<!-- Column 8 -->
+	<object position = "min 0 503 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 24 503 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 48 503 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 72 503 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 96 503 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 120 503 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 144 503 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 168 503 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 192 503 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 216 503 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+
+	<!-- Column 9 -->
+	<object position = "min 0 527 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 24 527 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 48 527 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 72 527 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 96 527 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 120 527 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 144 527 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 168 527 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 192 527 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 216 527 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+
+	<!-- Column 10 -->
+	<object position = "min 0 551 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 24 551 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 48 551 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 72 551 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 96 551 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 120 551 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 144 551 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 168 551 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 192 551 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+	<object position = "min 216 551 0" orientation = "0 0 0" shape="cuboid 20 20 10" material="1" fill-color="0 0 0" opacity="1" />
+</environment>

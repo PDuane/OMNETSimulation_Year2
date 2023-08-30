@@ -1,0 +1,89 @@
+<environment>
+	<!-- The value below is not the actual relative permittivity, but represents signal loss for the
+	         material in decibels per meter -->
+    <!-- This value should lead to around 30 dB drop through a coal piller -->
+	<material id="1" resistivity="1" relativePermittivity="0.1" relativePermeability="1"/>
+	<!--<material id="2" resistivity="1" relativePermittivity="0.1" relativePermeability="2"/>-->
+	
+	<!--<object position = "min 0 335 0" orientation = "0 0 0" shape="cuboid 775 775 9.9" material="2" fill-color = "150 255 150" opacity = "0.3" />-->
+	
+	<!-- First Column -->
+	<object position = "min 0 335 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 155 335 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 310 335 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 465 335 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+		
+	<object position = "min 620 335 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+		
+	<!-- Second Column -->
+	<object position = "min 0 490 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 155 490 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 310 490 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 465 490 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+		
+	<object position = "min 620 490 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<!-- Third Column -->
+	<object position = "min 0 645 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 155 645 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 310 645 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 465 645 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+		
+	<object position = "min 620 645 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<!-- Fourth Column -->
+	<object position = "min 0 800 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 155 800 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 310 800 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 465 800 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+		
+	<object position = "min 620 800 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<!-- Fifth Column -->
+	<object position = "min 0 955 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 155 955 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 310 955 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 465 955 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+		
+	<object position = "min 620 955 0" orientation = "0 0 0" shape="cuboid 150 150 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+</environment>

@@ -1,0 +1,15 @@
+<mine>
+    <!--Tunnels extending in x direction-->
+    <tunnel p1="0,500,1.5" p2="500,500,1.5" width="1.8" height="2.4" permittivity-vertical="8.9" permittivity-horizontal="8.9" />
+    <tunnel p1="0,400,1.5" p2="500,400,1.5" width="1.8" height="2.4" permittivity-vertical="8.9" permittivity-horizontal="8.9" />
+    <tunnel p1="0,300,1.5" p2="500,300,1.5" width="1.8" height="2.4" permittivity-vertical="8.9" permittivity-horizontal="8.9" />
+    <tunnel p1="0,200,1.5" p2="500,200,1.5" width="1.8" height="2.4" permittivity-vertical="8.9" permittivity-horizontal="8.9" />
+    <tunnel p1="0,100,1.5" p2="500,100,1.5" width="1.8" height="2.4" permittivity-vertical="8.9" permittivity-horizontal="8.9" />
+
+    <!--Tunnels extending in y direction-->
+    <tunnel p1="500,0,1.5" p2="500,500,1.5" width="1.8" height="2.4" permittivity-vertical="8.9" permittivity-horizontal="8.9" />
+    <tunnel p1="400,0,1.5" p2="400,500,1.5" width="1.8" height="2.4" permittivity-vertical="8.9" permittivity-horizontal="8.9" />
+    <tunnel p1="300,0,1.5" p2="300,500,1.5" width="1.8" height="2.4" permittivity-vertical="8.9" permittivity-horizontal="8.9" />
+    <tunnel p1="200,0,1.5" p2="200,500,1.5" width="1.8" height="2.4" permittivity-vertical="8.9" permittivity-horizontal="8.9" />
+    <tunnel p1="100,0,1.5" p2="100,500,1.5" width="1.8" height="2.4" permittivity-vertical="8.9" permittivity-horizontal="8.9" />
+</mine>

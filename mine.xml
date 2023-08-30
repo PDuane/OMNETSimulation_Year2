@@ -1,0 +1,18 @@
+<environment>
+	<!-- The value below is not the actual relative permittivity, but represents signal loss for the
+	         material in decibels per meter -->
+    <!-- This value should lead to around 30 dB drop through a coal piller -->
+	<!--<material id="1" resistivity="1" relativePermittivity="0.1" relativePermeability="1"/>-->
+	<material id="1" resistivity="1" relativePermittivity="30" relativePermeability="1"/>
+	<object position = "min 0 335 0" orientation = "0 0 0" shape="cuboid 190 390 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 210 335 0" orientation = "0 0 0" shape="cuboid 180 180 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+	
+	<object position = "min 210 535 0" orientation = "0 0 0" shape="cuboid 180 180 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+		
+	<object position = "min 410 325 0" orientation = "0 0 0" shape="cuboid 190 390 10"
+		material="1" fill-color="0 0 0" opacity="1" />
+</environment>
